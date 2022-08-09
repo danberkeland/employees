@@ -8,7 +8,7 @@ Amplify.configure(awsmobile)
 function App() {
   return (
     <div className="App">
-      Hello!
+      Hello World!
     </div>
   );
 }
